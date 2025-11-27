@@ -7,7 +7,7 @@ Use the example config "config/RNN3-acoustic1-pre.json" to train models for [Neu
 Models for NeuralPi must have hidden_size=20 specified in the config file.
 
 ```
-git clone https://github.com/GuitarML/Automated-GuitarAmpModelling.git
+git clone https://github.com/PedalCore/Automated-GuitarAmpModelling.git
 cd Automated-GuitarAmpModelling
 git submodule update --init --recursive
 ```
